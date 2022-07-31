@@ -1,11 +1,29 @@
+using List_e_rest.Helpers.Seed;
+using List_e_rest.Models;
+using List_e_rest.Services;
+using List_e_rest.Services.Interface;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Identity.Client;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddDbContext<ListERestDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("listerestSqlDb")));
+builder.Services.AddIdentity<User, AppRole>(options =>
+    {
+        options.User.RequireUniqueEmail = false;
+        options.Password.RequireNonAlphanumeric = false;
+    })
+    .AddEntityFrameworkStores<ListERestDbContext>()
+    .AddDefaultTokenProviders();
 builder.Services.AddEndpointsApiExplorer();
+
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddScoped<IUserService, UserService>();
+
 
 var app = builder.Build();
 
