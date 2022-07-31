@@ -29,10 +29,6 @@ public class UserController : ControllerBase
     {
         if (ModelState.IsValid)
         {
-            var time = TimeZoneInfo.ConvertTimeToUtc(DateTime.UtcNow,
-                TimeZoneInfo.FindSystemTimeZoneById(_configuration.GetSection("AlbukerkeTimeZone").Value));
-
-
             var user = new User
             {
                 FirstName = model.FirstName,

@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+﻿
 using List_e_rest.ApiModel;
 using List_e_rest.Models;
 using List_e_rest.Models.Interfaces;
@@ -6,6 +6,7 @@ using List_e_rest.Repository;
 using List_e_rest.Services.Interface;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using AutoMapper;
 
 namespace List_e_rest.Services
 {
