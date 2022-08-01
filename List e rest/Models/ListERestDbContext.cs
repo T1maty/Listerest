@@ -14,7 +14,7 @@ public class ListERestDbContext : IdentityDbContext<User, AppRole, int>
 
     }
 
-    public override DbSet<User> Users { get; set; }
+    
     //тут дописать модели: Table, School, Employee;
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -23,4 +23,7 @@ public class ListERestDbContext : IdentityDbContext<User, AppRole, int>
         optionsBuilder
             .UseSqlServer("Server=.\\SQLExpress;Database=listerestdb;Trusted_Connection=true;");
     }
+    //тут дописать модели: Table, School, Employee;
+    
+    public override DbSet<User> Users { get; set; }
 }

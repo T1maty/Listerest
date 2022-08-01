@@ -31,6 +31,7 @@ public class UserController : ControllerBase
         {
             var user = new User
             {
+                
                 FirstName = model.FirstName,
                 LastName = model.LastName,
 
