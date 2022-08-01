@@ -21,7 +21,7 @@ public class ListERestDbContext : IdentityDbContext<User, AppRole, int>
     {
         base.OnConfiguring(optionsBuilder);
         optionsBuilder
-            .UseSqlServer("Server=.\\SQLExpress;Database=listerestdb;Trusted_Connection=true;");
+            .UseSqlServer("Server=.\\SQLExpress;Database=listerestSqlDb;Trusted_Connection=true;");
     }
     //тут дописать модели: Table, School, Employee;
     

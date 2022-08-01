@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PROGRAMMING\\List e rest\\List e rest\\List e rest.csproj": {}
+    "D:\\List\\List e rest\\List e rest.csproj": {}
   },
   "projects": {
-    "C:\\PROGRAMMING\\List e rest\\List e rest\\List e rest.csproj": {
+    "D:\\List\\List e rest\\List e rest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PROGRAMMING\\List e rest\\List e rest\\List e rest.csproj",
+        "projectUniqueName": "D:\\List\\List e rest\\List e rest.csproj",
         "projectName": "List e rest",
-        "projectPath": "C:\\PROGRAMMING\\List e rest\\List e rest\\List e rest.csproj",
+        "projectPath": "D:\\List\\List e rest\\List e rest.csproj",
         "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "C:\\PROGRAMMING\\List e rest\\List e rest\\obj\\",
+        "outputPath": "D:\\List\\List e rest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,6 +67,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.0-preview.6.22329.4, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.15.1, )"
             },
             "Serilog": {
               "target": "Package",

@@ -1,0 +1,63 @@
+D:\List\List e rest\obj\Docker\publish\List e rest.exe
+D:\List\List e rest\obj\Docker\publish\appsettings.Development.json
+D:\List\List e rest\obj\Docker\publish\appsettings.json
+D:\List\List e rest\obj\Docker\publish\List e rest.dll
+D:\List\List e rest\obj\Docker\publish\List e rest.runtimeconfig.json
+D:\List\List e rest\obj\Docker\publish\List e rest.pdb
+D:\List\List e rest\obj\Docker\publish\AutoMapper.dll
+D:\List\List e rest\obj\Docker\publish\Azure.Core.dll
+D:\List\List e rest\obj\Docker\publish\Azure.Identity.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Bcl.AsyncInterfaces.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Data.SqlClient.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.EntityFrameworkCore.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.EntityFrameworkCore.Relational.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Extensions.Caching.Abstractions.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Extensions.Caching.Memory.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Extensions.DependencyInjection.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Extensions.Identity.Core.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Extensions.Identity.Stores.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Extensions.Logging.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Extensions.Logging.Abstractions.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Extensions.Options.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Extensions.Primitives.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Identity.Client.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.IdentityModel.Logging.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.IdentityModel.Protocols.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.IdentityModel.Tokens.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.OpenApi.dll
+D:\List\List e rest\obj\Docker\publish\Microsoft.Win32.SystemEvents.dll
+D:\List\List e rest\obj\Docker\publish\Serilog.dll
+D:\List\List e rest\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\List\List e rest\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\List\List e rest\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\List\List e rest\obj\Docker\publish\System.Configuration.ConfigurationManager.dll
+D:\List\List e rest\obj\Docker\publish\System.Drawing.Common.dll
+D:\List\List e rest\obj\Docker\publish\System.IdentityModel.Tokens.Jwt.dll
+D:\List\List e rest\obj\Docker\publish\System.Memory.Data.dll
+D:\List\List e rest\obj\Docker\publish\System.Runtime.Caching.dll
+D:\List\List e rest\obj\Docker\publish\System.Security.Cryptography.ProtectedData.dll
+D:\List\List e rest\obj\Docker\publish\System.Security.Permissions.dll
+D:\List\List e rest\obj\Docker\publish\System.Windows.Extensions.dll
+D:\List\List e rest\obj\Docker\publish\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\List\List e rest\obj\Docker\publish\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\List\List e rest\obj\Docker\publish\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\List\List e rest\obj\Docker\publish\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\List\List e rest\obj\Docker\publish\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\List\List e rest\obj\Docker\publish\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\List\List e rest\obj\Docker\publish\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\List\List e rest\obj\Docker\publish\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\List\List e rest\obj\Docker\publish\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\List\List e rest\obj\Docker\publish\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\List\List e rest\obj\Docker\publish\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\List\List e rest\obj\Docker\publish\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\List\List e rest\obj\Docker\publish\List e rest.deps.json

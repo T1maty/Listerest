@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8H+4oGedXECNuNuH17pG9vZjinzIAcM3TvRPMki2YFE/UREqk8LyayguqaPTB72Y9d3nhhcmCqNZnOOZ9s0d3w==",
+  "dgSpecHash": "HYC+IqEHx7STmNV84EvOVaoCJI742jXA8VAIZ6RDeDGBwfmEocyuSiz8RfmSCR1y7SwbRWQlsKr2iAmuXK9ARA==",
   "success": true,
-  "projectFilePath": "C:\\PROGRAMMING\\List e rest\\List e rest\\List e rest.csproj",
+  "projectFilePath": "D:\\List\\List e rest\\List e rest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Professional\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Professional\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
@@ -44,6 +44,7 @@
     "C:\\Users\\Professional\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Professional\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Professional\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Professional\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\Professional\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Professional\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Professional\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
